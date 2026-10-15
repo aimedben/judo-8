@@ -1,0 +1,6 @@
+{
+  "name": "Judo Seddouk",
+  "description": "Application de gestion pour le club de judo Seddouk : pointage tatami par QR code, suivi des présences, adhérents, ceintures, séances et synchronisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
